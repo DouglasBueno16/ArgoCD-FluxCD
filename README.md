@@ -25,7 +25,7 @@ cd fiap-dclt-aula04
 O cluster EKS `cicd-lab` deve ter sido criado na **Aula 01**.
 
 Se você ainda não criou o cluster:
-1. Volte ao **repositório da Aula 01**
+1. Volte ao **[repositório da Aula 01](https://github.com/josenetoo/fiap-dclt-aula01)**
 2. Siga os passos de criação do cluster EKS
 3. O cluster deve ter o nome: `cicd-lab`
 4. Região: `us-east-1`
